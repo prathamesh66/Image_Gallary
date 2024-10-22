@@ -1,6 +1,6 @@
 * Project Description
 
-The Image Gallery project is a visually appealing web application that showcases a collection of images in a grid layout. Each image is accompanied by a caption that appears with a smooth transition effect when hovered over. This project demonstrates how to utilize HTML, CSS, and responsive design techniques to create an interactive and engaging user experience.
+The Image Gallery project is a visually appealing web application that showcases a collection of images in a grid layout. Each image is accompanied by a caption that appears with a smooth transition effect when hovered over. This project demonstrates how to utilize HTML, CSS, and responsive design techniques to create an interactive and engaging user experience..
 
 * Features
 
